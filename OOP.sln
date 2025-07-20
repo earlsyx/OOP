@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantiatedClasses", "Inst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWIntsantiatedClasses", "HWIntsantiatedClasses\HWIntsantiatedClasses.csproj", "{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyTypes", "PropertyTypes\PropertyTypes.csproj", "{1F2AD864-7DC6-4877-8C71-F6376D8A9AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2AD864-7DC6-4877-8C71-F6376D8A9AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2AD864-7DC6-4877-8C71-F6376D8A9AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2AD864-7DC6-4877-8C71-F6376D8A9AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2AD864-7DC6-4877-8C71-F6376D8A9AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
