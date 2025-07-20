@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassesDemo", "StaticClassesDemo\StaticClassesDemo.csproj", "{018C771B-EE28-4486-9553-A0FD11AD6CD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantiatedClasses", "InstantiatedClasses\InstantiatedClasses.csproj", "{697D2A03-5FCE-4E04-85EB-C64DC33C5565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWIntsantiatedClasses", "HWIntsantiatedClasses\HWIntsantiatedClasses.csproj", "{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{697D2A03-5FCE-4E04-85EB-C64DC33C5565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{697D2A03-5FCE-4E04-85EB-C64DC33C5565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{697D2A03-5FCE-4E04-85EB-C64DC33C5565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93173D2-3EA5-49C6-88E9-DD9EAB59CCE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
